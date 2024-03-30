@@ -27,11 +27,11 @@ I started by conducting exploratory data analysis (EDA) to gain insights into th
 ### Technologies
 Here is a list of technologies I used in this project:
 
-Python
-Pandas and Numpy for data manipulation and analysis
-Scikit learn linear model, pre processing, model selections, metrics, and many more for machine learning tasks
-Matplotlib and Seaborn for data visualization
-Jupyter Notebook for interactive development and analysis
+- Python
+- Pandas and Numpy for data manipulation and analysis
+- Scikit learn linear model, pre processing, model selections, metrics, and many more for machine learning tasks
+- Matplotlib and Seaborn for data visualization
+- Jupyter Notebook for interactive development and analysis
 
 ### Conclusion
 By analyzing this music dataset using unsupervised learning techniques, I aimed to uncover hidden patterns and themes within the songs' lyrical content. Through clustering analysis, I provided a ton of valuable insights into the diverse landscape of music genres and themes across different time periods.
