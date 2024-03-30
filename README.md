@@ -22,7 +22,7 @@ Lyrical Features:
 My main goal was to apply unsupervised learning techniques to cluster the songs based on their lyrical features and explore any underlying patterns or themes. Additionally, I aimed to identify insights from the clustering results and potentially recommend songs to users based on their preferences.
 
 ### Methodology
-I started by conducting exploratory data analysis (EDA) to gain insights into the dataset, including identifying correlations between variables. I then preprocessed the data as needed and apply clustering algorithms to group the songs into clusters based on their lyrical content. After that, I interpreted the clusters to understand the themes represented by each cluster and make recommendations accordingly.
+I started by conducting Exploratory Data Analysis (EDA) to gain insights into the dataset, including identifying correlations between variables. I then preprocessed the data as needed and apply clustering algorithms to group the songs into clusters based on their lyrical content. After that, I interpreted the clusters to understand the themes represented by each cluster and make recommendations accordingly.
 
 ### Technologies
 Here is a list of technologies I used in this project:
